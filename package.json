@@ -1,0 +1,22 @@
+{
+  "name": "toml-checker",
+  "version": "0.1.0",
+  "description": "Simple library to validate TOML files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiagocanti/toml-checker.git"
+  },
+  "author": "Santiago Canti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/santiagocanti/toml-checker/issues"
+  },
+  "homepage": "https://github.com/santiagocanti/toml-checker#readme",
+  "devDependencies": {
+    "toml": "^2.3.3"
+  }
+}
