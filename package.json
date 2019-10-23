@@ -19,7 +19,7 @@
     "url": "https://github.com/santiagocanti/toml-checker/issues"
   },
   "homepage": "https://github.com/santiagocanti/toml-checker#readme",
-  "devDependencies": {
+  "dependencies": {
     "toml": "^2.3.3"
   }
 }
